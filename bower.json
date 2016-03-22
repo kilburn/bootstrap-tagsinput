@@ -1,12 +1,12 @@
 {
-  "name": "bootstrap-tagsinput",
-  "version": "0.5.0",
-  "homepage": "https://github.com/TimSchlechter/bootstrap-tagsinput",
+  "name": "bootstrap-tagsinput-update",
+  "version": "0.8.0",
+  "homepage": "https://github.com/kilburn/bootstrap-tagsinput",
   "authors": [
     "Tim Schlechter",
     "Luckner Jr Jean-Baptiste"
   ],
-  "description": "jQuery plugin providing a Twitter Bootstrap user interface for managing tags.",
+  "description": "jQuery plugin providing a Twitter Bootstrap user interface for managing tags (updated to 0.8.0).",
   "main": [
     "dist/bootstrap-tagsinput.js",
     "dist/bootstrap-tagsinput.css"
@@ -27,16 +27,6 @@
     "test"
   ],
   "dependencies": {
-    "jquery": "~2.1.1"
-  },
-  "devDependencies": {
-    "bootstrap-3": "bootstrap#~3.2.0",
-    "bootstrap-2.3.2": "bootstrap#~2.3.2",
-    "angular": "~1.2.21",
-    "typeahead.js": "~0.10.4",
-    "jasmine": "~2.0.1"
-  },
-  "resolutions": {
     "jquery": ">= 1.9.0"
-  }
+  },
 }
